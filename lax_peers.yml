@@ -1,1 +1,6 @@
-
+- kioubit:
+  name: kioubit
+  endpoint: us3.g-load.eu:21780
+  publickey: sLbzTRr2gfLFb24NPzDOpy8j09Y6zI+a7NkeVMdVSR8=
+  ipv6: fe80::ade0
+  asn: 4242423914
